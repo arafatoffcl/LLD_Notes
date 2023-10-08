@@ -1,6 +1,7 @@
 SOLID Principles:
 ----------------
--> The SOLID principle helps in reducing tight coupling. Tight coupling means a group of classes are highly dependent on one another which you should avoid in your code.
+-> The SOLID principle helps in reducing tight coupling. Tight coupling means a group of classes are highly dependent on one another which you should avoid in 
+your code.
 
 -> Loosely coupled classes minimize changes in your code, helps in making code more reusable, maintainable, flexible, easily testable and stable.
 
